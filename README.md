@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=300px height=200px style=transform: rotate(90deg) src="https://github.com/kodykoester/flightComputer/blob/main/atlas.png" alt="Project logo"></a>
+ <img width=300px height=200px src="https://github.com/kodykoester/flightComputer/blob/main/atlas.png" alt="Project logo"></a>
 </p>
 
 <h3 align="center">Project Mercury</h3>
