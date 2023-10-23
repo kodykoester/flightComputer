@@ -1,22 +1,19 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=300px height=200px src="https://github.com/kodykoester/flightComputer/blob/main/atlas.png" alt="Project logo"></a>
+ <img width=300px height=200px src="" alt="Project logo"></a>
 </p>
 
 <h3 align="center">Project Mercury</h3>
 
 <div align="center">
-
-  [![Status](https://img.shields.io/badge/status-active-success.svg)]() 
-  [![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues)
-  [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls)
-  [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
-
+## 🧐 About <a name = "about"></a>
+This project focuses on designing and developing real-time embedded software for a flight computer and ground station. It encompasses debugging and testing of software, integration with hardware-in-the-loop system tests, and maintaining high-quality documentation. <br>
+The purpose of this project is to demonstrate expertise in various areas, including flight and ground software, systems engineering, avionics systems, power systems, BLE and Wi-Fi communication, structure design and analysis, trajectory analysis, memory and power constraints, and system configuration management.
 </div>
 
 ---
 
-<p align="center"> Few lines describing your project.
+<p align="center"> The primary goal of this project is to leverage demonstrated experience and expertise in the following areas:
     <br> 
 </p>
 
@@ -31,8 +28,7 @@
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
 
-## 🧐 About <a name = "about"></a>
-Write about 1-2 paragraphs describing the purpose of your project.
+
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
