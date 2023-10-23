@@ -7,8 +7,7 @@
 
 <div align="center">
 ## 🧐 About <a name = "about"></a>
-This project focuses on designing and developing real-time embedded software for a flight computer and ground station. It encompasses debugging and testing of software, integration with hardware-in-the-loop system tests, and maintaining high-quality documentation. <br>
-The purpose of this project is to demonstrate expertise in various areas, including flight and ground software, systems engineering, avionics systems, power systems, BLE and Wi-Fi communication, structure design and analysis, trajectory analysis, memory and power constraints, and system configuration management.
+This project is a showcase of expertise in various areas related to flight computer design, debugging, and integration. This project demonstrates not only the development of a flight computer but also expertise in systems engineering, power systems, BLE and Wi-Fi communication, structure design and analysis, trajectory analysis, memory and power constraints, and system configuration management.
 </div>
 
 ---
