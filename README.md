@@ -22,12 +22,12 @@ This ongoing project is a showcase of my experience and capabilities in aerospac
 This project also highlights experience in systems engineering, BLE and WiFi communication, structure design and analysis, trajectory analysis, memory and power constraints, and system configuration management. The primary focus is on designing and developing real-time embedded software for flight computers, ground station communication and data processing.
 
 ## Key Features <a name = "features"></a>
-- [Real-time flight control software]
-- [BLE and WiFi communication for data exchange]
-- [Structural design and analysis for safety and performance]
-- [Trajectory analysis for efficient flight paths]
-- [Optimization under memory and power constraints]
-- [Robust configuration management for system reliability]
+- Real-time flight control software
+- BLE and WiFi communication for data exchange
+- Structural design and analysis for safety and performance
+- Trajectory analysis for efficient flight paths
+- Optimization under memory and power constraints
+- Robust configuration management for system reliability
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 - [C++](https://cplusplus.com/) 
