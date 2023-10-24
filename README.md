@@ -3,11 +3,11 @@
  <img width=300px height=200px src="" alt="Project logo"></a>
 </p>
 
-<h3 align="center">Project Mercury</h3>
+<h3 align="center">Meet, Glenn</h3>
 
 <div align="center">
-## 🧐 About <a name = "about"></a>
-This project is a showcase of expertise in various areas related to flight computer design, debugging, and integration. This project demonstrates not only the development of a flight computer but also expertise in systems engineering, power systems, BLE and Wi-Fi communication, structure design and analysis, trajectory analysis, memory and power constraints, and system configuration management.
+<a name = "about"></a>
+A showcase of flight computer design, debugging, and integration. This project also highlights experience in systems engineering, BLE and WiFi communication, structure design and analysis, trajectory analysis, memory and power constraints, and system configuration management. The primary focus is on designing and developing real-time embedded software for a flight computer and ground station communication, along with debugging and testing the system.
 </div>
 
 ---
@@ -17,7 +17,7 @@ This project is a showcase of expertise in various areas related to flight compu
 </p>
 
 ## 📝 Table of Contents
-- [About](#about)
+- [Introduction](#introduction)
 - [Getting Started](#getting_started)
 - [Deployment](#deployment)
 - [Usage](#usage)
@@ -29,55 +29,8 @@ This project is a showcase of expertise in various areas related to flight compu
 
 
 
-## 🏁 Getting Started <a name = "getting_started"></a>
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
-
-### Prerequisites
-What things you need to install the software and how to install them.
-
-```
-Give examples
-```
-
-### Installing
-A step by step series of examples that tell you how to get a development env running.
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo.
-
-## 🔧 Running the tests <a name = "tests"></a>
-Explain how to run the automated tests for this system.
-
-### Break down into end to end tests
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## 🎈 Usage <a name="usage"></a>
-Add notes about how to use the system.
-
-## 🚀 Deployment <a name = "deployment"></a>
-Add additional notes about how to deploy this on a live system.
+## Introduction
+The Flight Computer project serves as a testament to our capabilities in aerospace and software engineering. It is a demonstration of real-time embedded systems that manage critical tasks related to flight control, communication, and data analysis for unmanned aerial vehicles (UAVs).
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 - [MongoDB](https://www.mongodb.com/) - Database
