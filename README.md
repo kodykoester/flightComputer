@@ -21,27 +21,19 @@ A showcase of flight computer design, debugging, and integration. This project a
 ## Introduction <a name = "introduction"></a>
 This ongoing project serves as a showcase of my progression and capabilities in aerospace and software engineering. It demonstrates real-time embedded systems that manage critical tasks related to flight control, communication, and data analysis for unmanned aerial vehicles (UAVs).
 
-<h3>## Key Features <a name = "features"></a></h3>
-Real-time flight control software.
-BLE and WiFi communication for data exchange.
-Structural design and analysis for safety and performance.
-Trajectory analysis for efficient flight paths.
-Optimization under memory and power constraints.
-Robust configuration management for system reliability.
-Technologies Used
-Our project leverages a variety of technologies and tools, including:
-
-C/C++ for embedded software development.
-Real-time operating systems (RTOS).
-Bluetooth Low Energy (BLE) and WiFi for communication.
-Systems engineering principles.
-Memory and power optimization techniques.
+## Key Features <a name = "features"></a>
+-Real-time flight control software.
+-BLE and WiFi communication for data exchange.
+-Structural design and analysis for safety and performance.
+-Trajectory analysis for efficient flight paths.
+-Optimization under memory and power constraints.
+-Robust configuration management for system reliability.
 
 ## ⛏️ Built Using <a name = "built_using"></a>
-- [MongoDB](https://www.mongodb.com/) - Database
-- [Express](https://expressjs.com/) - Server Framework
-- [VueJs](https://vuejs.org/) - Web Framework
-- [NodeJs](https://nodejs.org/en/) - Server Environment
+- [C++](https://cplusplus.com/) 
+- [Real-time operating systems (RTOS)](https://www.geeksforgeeks.org/real-time-operating-system-rtos/) 
+- [Bluetooth Low Energy (BLE)](https://docs.arduino.cc/learn/communication/bluetooth)
+- [Systems engineering principles]
 
 ## ✍️ Development Team <a name = "designer"></a>
 - (https://github.com/kodykoester)
