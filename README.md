@@ -1,8 +1,7 @@
-<p align="center">
+<!--<p align="center">
   <a href="" rel="noopener">
  <img width=300px height=200px src="" alt="Project logo"></a>
-</p>
-
+</p>-->
 <h3 align="center">Meet, Glenn</h3>
 
 <div align="center">
