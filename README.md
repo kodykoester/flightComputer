@@ -21,7 +21,7 @@ A showcase of flight computer design, debugging, and integration. This project a
 ## Introduction <a name = "introduction"></a>
 This ongoing project serves as a showcase of my progression and capabilities in aerospace and software engineering. It demonstrates real-time embedded systems that manage critical tasks related to flight control, communication, and data analysis for unmanned aerial vehicles (UAVs).
 
-<h3>## Key Features <a name = "features"></a>/h3>
+<h3>## Key Features <a name = "features"></a></h3>
 Real-time flight control software.
 BLE and WiFi communication for data exchange.
 Structural design and analysis for safety and performance.
