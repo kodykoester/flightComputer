@@ -10,12 +10,12 @@
 This ongoing project is a showcase of my experience and capabilities in aerospace and software engineering. It demonstrates real-time embedded systems that manage critical tasks related to flight control, communication, and data analysis for unmanned aerial vehicles (UAVs).
 </div>
 
-## 📝 Table of Contents
+## Table of Contents
 - [Introduction](#introduction)
 - [Built Using](#built_using)
 - [Development Team](#designer)
 - [Features](#features)
-
+- [Live Site(https://kodykoester.com/pages/ke/ke.html)]
 
 
 ## Introduction <a name = "introduction"></a>
@@ -29,12 +29,11 @@ This project also highlights experience in systems engineering, BLE and WiFi com
 - Optimization under memory and power constraints
 - Robust configuration management for system reliability
 
-## ⛏️ Built Using <a name = "built_using"></a>
+## Built Using <a name = "built_using"></a>
 - [C++](https://cplusplus.com/) 
 - [Real-time operating systems (RTOS)](https://www.geeksforgeeks.org/real-time-operating-system-rtos/) 
 - [Bluetooth Low Energy (BLE)](https://docs.arduino.cc/learn/communication/bluetooth)
 - [Systems engineering principles]
 
-## ✍️ Development Team <a name = "designer"></a>
+## Development Team <a name = "designer"></a>
 - (https://github.com/kodykoester)
-
