@@ -7,7 +7,7 @@
 
 <div align="center">
 <a name = "about"></a>
-A showcase of flight computer design, debugging, and integration. This project also highlights experience in systems engineering, BLE and WiFi communication, structure design and analysis, trajectory analysis, memory and power constraints, and system configuration management. The primary focus is on designing and developing real-time embedded software for a flight computer and ground station communication, along with debugging and testing the system.
+This ongoing project is a showcase of my experience and capabilities in aerospace and software engineering. It demonstrates real-time embedded systems that manage critical tasks related to flight control, communication, and data analysis for unmanned aerial vehicles (UAVs).
 </div>
 
 ## 📝 Table of Contents
@@ -19,7 +19,7 @@ A showcase of flight computer design, debugging, and integration. This project a
 
 
 ## Introduction <a name = "introduction"></a>
-This ongoing project serves as a showcase of my progression and capabilities in aerospace and software engineering. It demonstrates real-time embedded systems that manage critical tasks related to flight control, communication, and data analysis for unmanned aerial vehicles (UAVs).
+This project also highlights experience in systems engineering, BLE and WiFi communication, structure design and analysis, trajectory analysis, memory and power constraints, and system configuration management. The primary focus is on designing and developing real-time embedded software for flight computers, ground station communication and data processing.
 
 ## Key Features <a name = "features"></a>
 -Real-time flight control software.
@@ -37,6 +37,4 @@ This ongoing project serves as a showcase of my progression and capabilities in 
 
 ## ✍️ Development Team <a name = "designer"></a>
 - (https://github.com/kodykoester)
-
-See also the list of other work here
 
