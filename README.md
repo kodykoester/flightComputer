@@ -15,7 +15,7 @@ This ongoing project is a showcase of my experience and capabilities in aerospac
 - [Built Using](#built_using)
 - [Development Team](#designer)
 - [Features](#features)
-- [Live Site(https://kodykoester.com/pages/ke/ke.html)]
+- [Showcase Website](https://kodykoester.com/pages/ke/ke.html)
 
 
 ## Introduction <a name = "introduction"></a>
