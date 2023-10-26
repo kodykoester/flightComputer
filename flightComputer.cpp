@@ -60,7 +60,7 @@ void loop() {
   Serial.print(temperature);
   Serial.print(" °F");
   Serial.print(",");
-  Serial.print(altitude);
+  Serial.print(altitude, 1);
   Serial.println(" m");
 
 
