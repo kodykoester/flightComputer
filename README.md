@@ -1,12 +1,12 @@
 <!--<p align="center">
   <a href="" rel="noopener">
  <img width=300px height=200px src="" alt="Project logo"></a>
-</p>-->
-<h3 align="center">Meet, Glenn</h3>
+</p>
+<h3 align="center">SOME TITLE</h3>-->
 
 <div align="center">
 <a name = "about"></a>
-This ongoing project is a showcase of my experience and capabilities in aerospace and software engineering. It demonstrates real-time embedded systems that manage critical tasks related to flight control, communication, and data analysis for unmanned aerial vehicles (UAVs).
+This ongoing project is meant to showcase my experience and capabilities in software engineering. It demonstrates real-time embedded systems that manage critical tasks related to flight control, communication, and data analysis for unmanned aerial vehicles (UAVs).
 </div>
 
 ## Table of Contents
