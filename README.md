@@ -9,13 +9,6 @@
 This ongoing project is meant to showcase my experience and capabilities in software engineering. It demonstrates real-time embedded systems that manage critical tasks related to flight control, communication, and data analysis for unmanned aerial vehicles (UAVs).
 </div>
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Built Using](#built_using)
-- [Development Team](#designer)
-- [Features](#features)
-- [Showcase Website](https://kodykoester.com/pages/ke/ke.html)
-
 
 ## Introduction <a name = "introduction"></a>
 This project also highlights experience in systems engineering, BLE and WiFi communication, structure design and analysis, trajectory analysis, memory and power constraints, and system configuration management. The primary focus is on designing and developing real-time embedded software for flight computers, ground station communication and data processing.
